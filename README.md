@@ -2,7 +2,7 @@
   
 INSTALL FRAMEWORK
 
-1. git clone https://github.com/juan-montes-globant/API_academy.git
+1. git clone https://github.com/elitaborda/apirepo.git
 2. mvn clean install -DskipTests
 3. mvn eclipse:eclipse or mvn idea:idea
 
